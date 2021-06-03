@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Hue-and-cry after beauty and vertue</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44867</idno><idno type="EEBO-CITATION">12283404</idno>
+  <idno type="VID">58796</idno>
+  <idno type="EEBO-PROQUEST">2240967063</idno>
+  
+            <idno type="STC">Wing H3269</idno>
+            <idno type="STC">ESTC R18679</idno>
+            <idno type="OCLC">12283404</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A44867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58796)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 188:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Hue-and-cry after beauty and vertue</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:58796:1"/>
+            <head>A HUE-and-CRY AFTER Beauty and Vertue.</head>
+            <head type="sub">There being lately lost, whilest the <hi>Devil</hi> was removing <hi>Householdstuff</hi> at St. <hi>James's,</hi> a certain <hi>She-Animal</hi> of prodigious Quality, and <hi>unknown</hi> Vertues; 'tis thought fit to give the World the Description and Ear<g ref="char:EOLhyphen"/>marks of the <hi>Beast;</hi> That if any <hi>Fop, Bully,</hi> or doughty <hi>Squire,</hi> in Town or Countrey, happen to stumble on such a Bargain, he may be furnisht with a particular Inven<g ref="char:EOLhyphen"/>tory of his purchase. It should have been an <hi>Adver<g ref="char:EOLhyphen"/>tisement</hi> in the <hi>Gazett;</hi> but that has already been over<g ref="char:EOLhyphen"/>charg'd with Notice of <hi>Stray'd Bitches,</hi> and so dam<g ref="char:EOLhyphen"/>nably given to <hi>Lying</hi> of late, that few people regard it.</head>
+            <p>
+               <hi>IMprimis,</hi> As to her <hi>descent,</hi> some Heraulds derive her Pe<g ref="char:EOLhyphen"/>digree, like that of <hi>Scotch-Barnacles,</hi> and say she dropt from some <hi>teeming Gallows,</hi> or sprung up like <hi>Mandrakes</hi> from the sperm of a <hi>Gibbetted Ragamuffin;</hi> others aver, that she was begot by a <hi>Glister-pipe,</hi> because she calls <hi>Sir Saundy the Muckle,</hi> her Sire; A foolish Quack, that by the Recommendation of his Countryman, the mighty <hi>Logger-sconse</hi>
+               <pb n="2" facs="tcp:58796:2"/> is become a Knight of the Order of the <hi>Sooth-saying Pispot;</hi> nor is it any wonder, that <hi>an Epidemical Plague</hi> should raise a <hi>Doctor</hi> to preferment: This <hi>whiffling Scabbado</hi> has long been famous at Court for much <hi>practice,</hi> and no <hi>success,</hi> save in Curing young Ladies of <hi>Tympanies</hi> with <hi>Savin-Possets,</hi> and assisting <hi>old ones</hi> with well-tryed <hi>Dildo's.</hi> The <hi>subtilest</hi> Act he ever did, was the begetting of this Madam <hi>Pandora,</hi> thereby laying an Infallible Plot for <hi>future business;</hi> for where<g ref="char:EOLhyphen"/>ever she comes, <hi>Diseases</hi> as naturally follow her, as Debau<g ref="char:EOLhyphen"/>chery does the <hi>Court;</hi> and she alone is able to make work enough for a whole <hi>Colledge of Physitians.</hi> She takes upon her the venerable name of a <hi>Widow,</hi> but was never <hi>Married;</hi> For sure the Church that prohibits <hi>unequal Yoaking,</hi> could not be guilty of Linking any Christian with such a <hi>Succuba;</hi> yet to prove her Matrimony, the <hi>Hag</hi> Conjures for the Ghost of a <hi>Bishop</hi> departed, and would scandalize the good Man as <hi>Pimp-Canonical</hi> to her Letchery. Her Husband, she pre<g ref="char:EOLhyphen"/>tends, <hi>dyed at Sea;</hi> and indeed 'tis no wonder, that he should be <hi>Cast away,</hi> that would venture himself in such a <hi>filthy Leaky Bottom;</hi> For all those must needs be <hi>Ship-wrackt,</hi> that once <hi>cast Anchor</hi> in her Embraces.</p>
+            <p>She is <hi>old</hi> and <hi>ugly,</hi> and has nothing of Woman left, but <hi>Lust</hi> and <hi>Tongue,</hi> and the latter brings in Contribution for the former. She has quite ruined the <hi>Dawbers,</hi> and the <hi>Bawdy Occupation,</hi> pretending a Patent to Monopolize both those Mysteries. Her Chamber is the <hi>Common Stews</hi> of the Town; the <hi>long Cellar</hi> at <hi>Amsterdam</hi> is not more frequented; and she has <hi>an Allowance</hi> of five or six Dishes of Meat for Suppers, to bring the <hi>young ones</hi> together. There is she <hi>the Mother of the Maids,</hi> Riding <hi>Admiraless</hi> of a Squadron of Privateers, and <hi>holding forth</hi> in that Conventicle of the <hi>Family of Love:</hi> Marriages are there promoted, that were never made in Hea<g ref="char:EOLhyphen"/>ven; nor does <hi>Doctors-Commons</hi> in a Twelvemonth deter<g ref="char:EOLhyphen"/>mine half so many <hi>smutty Controversies,</hi> as are here dispatcht in an Evening: All the Amorous Intrigues are gravely dis<g ref="char:EOLhyphen"/>miss'd in this <hi>Divan;</hi> and the punctual Sums Assign'd for <hi>Keepers,</hi> of all Qualities, to allow their <hi>Misses;</hi> 'Tis the <hi>Su<g ref="char:EOLhyphen"/>preme Council</hi> (next to that of <hi>W— H—</hi>) for regulating <hi>Venerian Affairs;</hi> and there is not an <hi>Harlot of Quality</hi> that
+<pb n="3" facs="tcp:58796:3"/> walks the Park, but thence takes her measures, both for <hi>Price,</hi> and choice of her <hi>Cully.</hi>
+            </p>
+            <p>To give a more particular Character of her person, we may call her, <hi>The Epitome of ugliness,</hi> an <hi>Original</hi> drawn by natures Pencil, whereof <hi>Granny Shipton, Mother Louse,</hi> and Gammar <hi>Damnable,</hi> were but <hi>imperfect Copies.</hi> Her <hi>plaistered Face</hi> drops against ill-weather; and when she laughs, it looks like a <hi>ruffled Boot,</hi> or an <hi>Oyl'd paper-Lan<g ref="char:EOLhyphen"/>thorn,</hi> whilest her sizeless <hi>snout</hi> shews like the <hi>Candle</hi> in the middle of it; she is <hi>Pig-ey'd, Beetle-brow'd, Horse-teeth'd, Woodcock-nos'd,</hi> as <hi>crooked</hi> in body as in mind; A Skin of a <hi>Pease-porridg-tawny,</hi> or somewhat inclining to the Orient Complexion of <hi>Rusty Bacon;</hi> A Neck beset with <hi>natural Rubies</hi> and <hi>Carbuncles,</hi> yet always <hi>bare</hi> almost down to the <hi>Centre,</hi> and two or three huge <hi>black patches</hi> to cover the <hi>Pimpgennets,</hi> and turn <hi>Scabs</hi> into <hi>Beauty-spots,</hi> As for her other <hi>infernal parts,</hi> the Devil deals there al<g ref="char:EOLhyphen"/>together; they lye under the <hi>Torrid Zone,</hi> and are utter<g ref="char:EOLhyphen"/>ly <hi>uninhabitable,</hi> only some bold Travellers that have ven<g ref="char:EOLhyphen"/>tured that way, represent them much like the <hi>Desarts</hi> of <hi>Arabia,</hi> horridly <hi>Wide</hi> and <hi>Barren,</hi> not so much as a <hi>Bush</hi> to be met with, nor any thing but venomous <hi>Gulphs,</hi> like the <hi>Asphaltick-Lake,</hi> or <hi>Concaves</hi> of Mount <hi>Strombulo,</hi> belching out continually sulphurious <hi>Flames,</hi> enough to destroy all that approach them. Indeed her <hi>Breath</hi> would rout an Army sooner than that of a Cannon, and lay a Devil better than all <hi>Trithemius</hi>'s Charms; It blusters in her Nostrils like the wind in a foul Chimney; and by its violence has not only dissipated her <hi>Brains,</hi> but blown off all the <hi>Thatch</hi> of her <hi>Pericranium,</hi> which she now supplies with <hi>Goatish Towers,</hi> and Artificial Borders; with one word she is able to <hi>Blast a Rose</hi> at Threescore yards distance, and her very <hi>Soul</hi> (if she have one, which sure was given only to Damn her Body more com<g ref="char:EOLhyphen"/>pleatly) seems compos'd of <hi>Assa-Faetida</hi> and <hi>Brim<g ref="char:EOLhyphen"/>stone.</hi>
+            </p>
+            <pb n="4" facs="tcp:58796:4"/>
+            <p>
+               <hi>Witches</hi> of old were wont to piss in an <hi>hole</hi> in the Earth, and by padling in it, rais'd Storms and <hi>Tempests;</hi> but this <hi>Weyward Sister</hi> resolving upon some greater Ex<g ref="char:EOLhyphen"/>ploit, hath (as 'tis said) lately sent into <hi>Scotland</hi> for a <hi>Silver Chamber-pot;</hi> and if ever it should Arrive, may, 'tis feared, do more mischief than all the <hi>Poysoners</hi> at <hi>Paris;</hi> To prevent which, if any person can make a Dis<g ref="char:EOLhyphen"/>covery, and bring her to her old Randevouz at the <hi>Popes Pallace</hi> before-mentioned, he shall have a Thou<g ref="char:EOLhyphen"/>sand pounds <hi>Scotch</hi> for his pains, and also be Cured of an <hi>old Pox,</hi> or <hi>young Gonorrhea</hi> (which he pleases) by her Worshipful <hi>Daddy, Gratis.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
